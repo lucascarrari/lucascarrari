@@ -1,5 +1,5 @@
-##👨‍💻 OLÁ!!! Eu sou Lucas Carrari 😁
- 
+## OLÁ!! Eu sou o Lucas 👨‍💻
+
  <div>
    <a href="https://github.com/lucascarrari">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
