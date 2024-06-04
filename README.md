@@ -1,4 +1,4 @@
-## OLÁ!!! Eu sou Lucas Carrari 😁
+👨‍💻 OLÁ!!! Eu sou Lucas Carrari 😁
  
  <div>
    <a href="https://github.com/lucascarrari">
