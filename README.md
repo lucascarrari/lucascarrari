@@ -1,10 +1,11 @@
 ## OLÁ!! Eu sou o Lucas 👨‍💻
-
  <div>
-   <a href="https://github.com/lucascarrari">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarrari&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+   <a href="https://github.com/lucascarrari/github-readme-stats">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/lucascarrari">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrari&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
