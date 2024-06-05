@@ -1,6 +1,10 @@
  
 ## OLÁ!! Eu sou o Lucas 👨‍💻
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight)](https://github.com/lucascarrari/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+ 
  <div>
+  
   <a href="https://github.com/lucascarrari">
    
    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight" /> 
