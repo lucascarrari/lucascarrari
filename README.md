@@ -1,65 +1,33 @@
- <div align="center">
-
-# 👋 Olá, eu sou Lucas Carrari
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end;React+%7C+Next.js+%7C+Angular;TypeScript+%7C+JavaScript;Criando+interfaces+modernas+e+escal%C3%A1veis;Evoluindo+para+Full+Stack" alt="Typing SVG apresentando Lucas Carrari" />
-
-<br/>
-
-**Desenvolvedor Front-end • Bacharel em Ciência da Computação**
-
-Transformando ideias em interfaces modernas, funcionais e bem estruturadas.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://portifolio-final-wheat.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=818CF8)](https://www.linkedin.com/in/lucas-carrari/)
-[![Email](https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:lucascarrari@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-## 👨‍💻 Sobre Mim
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+# Lucas Carrari
 
-### 🚀 Desenvolvimento
+### Front-end Developer · Computer Science
 
-Focado no desenvolvimento de aplicações web modernas, responsivas e escaláveis, utilizando tecnologias atuais do ecossistema Front-end.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Angular+%E2%80%A2+TypeScript;Construindo+interfaces+modernas+e+escal%C3%A1veis;Front-end+Developer+%E2%86%92+Full+Stack"
+  alt="Lucas Carrari - Front-end Developer"
+/>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🎯 Objetivo
+Desenvolvo aplicações web modernas com foco em  
+**experiência do usuário, organização e qualidade de código.**
 
-Continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em Front-end e expandindo minha atuação para desenvolvimento Full Stack.
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Especialidades
-
-Componentização, interfaces modernas, integração com APIs REST, desenvolvimento responsivo e arquitetura Front-end.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Formação
-
-Bacharel em **Ciência da Computação**, unindo fundamentos de engenharia de software à construção de experiências digitais.
-
-</td>
-</tr>
-</table>
+<a href="https://portifolio-final-wheat.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
+</a>
+<a href="https://www.linkedin.com/in/lucas-carrari/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
+</a>
+<a href="mailto:lucascarrari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
+</a>
+<a href="https://wa.me/5521966447903">
+  <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=818CF8" />
+</a>
 
 </div>
 
@@ -67,41 +35,48 @@ Bacharel em **Ciência da Computação**, unindo fundamentos de engenharia de so
 
 ---
 
-## 🌐 Contatos
+## 👨‍💻 Sobre mim
 
-<div align="center">
+Sou **Desenvolvedor Front-end** e **Bacharel em Ciência da Computação**, com experiência no desenvolvimento de aplicações web e conhecimento de infraestrutura e ambientes corporativos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Carrari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrari/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://portifolio-final-wheat.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-Contato-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascarrari@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=22D3EE)](https://wa.me/5521966447903)
-[![GitHub](https://img.shields.io/badge/GitHub-lucascarrari-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucascarrari)
+Atualmente concentro meu desenvolvimento técnico no ecossistema Front-end, trabalhando principalmente com **React, Next.js, Angular, TypeScript e JavaScript**, além de integração com **APIs REST** e desenvolvimento de interfaces responsivas.
 
-</div>
+Minha experiência com infraestrutura também me permite enxergar uma aplicação além da interface, compreendendo sua integração com **APIs, serviços, dados, redes e segurança**.
+
+Busco evoluir continuamente como desenvolvedor e ampliar minha atuação em direção ao **desenvolvimento Full Stack**.
 
 <br/>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Front-end
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,scss,tailwind&theme=dark" alt="Tecnologias Front-end: React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, SCSS e Tailwind CSS" />
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,scss,tailwind&theme=dark"
+  alt="React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, SCSS e Tailwind CSS"
+/>
 
 <br/><br/>
 
-### Back-end & Banco de Dados
+### Back-end & Dados
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres&theme=dark" alt="Tecnologias Back-end e banco de dados: Node.js, Python, MySQL e PostgreSQL" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql&theme=dark"
+  alt="Node.js, Python, PostgreSQL e MySQL"
+/>
 
 <br/><br/>
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Ferramentas: Git, GitHub, VS Code, Postman e Figma" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
+  alt="Git, GitHub, Visual Studio Code, Postman e Figma"
+/>
 
 </div>
 
@@ -109,72 +84,67 @@ Bacharel em **Ciência da Computação**, unindo fundamentos de engenharia de so
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 TaskFlow Pro
+<h3 align="center">📋 TaskFlow Pro</h3>
 
-Sistema de gerenciamento de tarefas inspirado no Trello, desenvolvido com foco em organização, produtividade e arquitetura modular.
+<p align="center">
+Sistema de gerenciamento de tarefas inspirado no Trello.
+</p>
 
-**Principais recursos**
+**Principais funcionalidades**
 
-`Dashboard` • `Kanban` • `Drag & Drop`  
-`CRUD` • `Login` • `Dark Mode`  
-`Design Responsivo`
+- Dashboard
+- Kanban
+- Drag & Drop
+- CRUD de tarefas
+- Autenticação
+- Dark Mode
+- Interface responsiva
+- Arquitetura modular
 
-**Stack**
+**Tecnologias**
 
-![Angular](https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-![RxJS](https://img.shields.io/badge/RxJS-0F172A?style=flat-square&logo=reactivex&logoColor=B7178C)
-![SCSS](https://img.shields.io/badge/SCSS-0F172A?style=flat-square&logo=sass&logoColor=CC6699)
+`Angular` `TypeScript` `RxJS` `SCSS`
 
-<br/>
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github)](https://github.com/lucascarrari/taskflow-pro)
+<p align="center">
+<a href="https://github.com/lucascarrari/taskflow-pro">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✂️ Barbearia Tio Bigode
+<h3 align="center">✂️ Barbearia Tio Bigode</h3>
 
-Landing page profissional desenvolvida para uma barbearia, combinando identidade visual, responsividade, performance e boas práticas de SEO.
+<p align="center">
+Projeto web para uma barbearia com foco em experiência do usuário e presença digital.
+</p>
 
-**Principais recursos**
+**Destaques**
 
-`Landing Page` • `SEO`  
-`Responsive Design` • `UI/UX`  
-`Performance`
+- Interface moderna
+- Design responsivo
+- SEO
+- UX/UI
+- Performance
+- Componentização
 
-**Stack**
+**Tecnologias**
 
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+`Next.js` `TypeScript` `Tailwind CSS`
 
-<br/>
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github)](https://github.com/lucascarrari/Barbearia)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### 🌐 Portfólio
-
-Meu portfólio profissional, desenvolvido para apresentar meus projetos, tecnologias e trajetória como desenvolvedor.
-
-**React • Next.js • TypeScript • Tailwind CSS • UI/UX • Animações**
-
-<br/>
-
-[![Acessar Portfolio](https://img.shields.io/badge/ACESSAR_PORTFÓLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://portifolio-final-wheat.vercel.app/)
+<p align="center">
+<a href="https://github.com/lucascarrari/Barbearia">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 </tr>
@@ -182,13 +152,17 @@ Meu portfólio profissional, desenvolvido para apresentar meus projetos, tecnolo
 
 <br/>
 
----
-
-## 📊 Estatísticas GitHub
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascarrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=FFFFFF" alt="Estatísticas GitHub de Lucas Carrari" />
+### 🌐 Portfólio
+
+Uma visão completa dos meus projetos, tecnologias e trajetória profissional.
+
+<br/>
+
+<a href="https://portifolio-final-wheat.vercel.app/">
+<img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
+</a>
 
 </div>
 
@@ -196,11 +170,14 @@ Meu portfólio profissional, desenvolvido para apresentar meus projetos, tecnolo
 
 ---
 
-## 💻 Linguagens Mais Utilizadas
+## 📊 GitHub
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarrari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=FFFFFF" alt="Linguagens mais utilizadas por Lucas Carrari" />
+<img
+  src="https://streak-stats.demolab.com?user=lucascarrari&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE"
+  alt="GitHub Streak de Lucas Carrari"
+/>
 
 </div>
 
@@ -208,35 +185,15 @@ Meu portfólio profissional, desenvolvido para apresentar meus projetos, tecnolo
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Atividade
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lucascarrari&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE" alt="Sequência de contribuições de Lucas Carrari" />
-
-</div>
-
-<br/>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucascarrari&bg_color=0D1117&color=FFFFFF&line=818CF8&point=22D3EE&area=true&hide_border=true" alt="Gráfico de atividade GitHub de Lucas Carrari" />
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucascarrari&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do perfil GitHub de Lucas Carrari" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=lucascarrari&bg_color=0D1117&color=C9D1D9&line=818CF8&point=22D3EE&area=true&hide_border=true"
+  width="100%"
+  alt="Gráfico de atividade GitHub de Lucas Carrari"
+/>
 
 </div>
 
@@ -248,41 +205,50 @@ Meu portfólio profissional, desenvolvido para apresentar meus projetos, tecnolo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucascarrari/lucascarrari/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições GitHub de Lucas Carrari" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lucascarrari/lucascarrari/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lucascarrari/lucascarrari/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições GitHub de Lucas Carrari"
+    src="https://raw.githubusercontent.com/lucascarrari/lucascarrari/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
-> A animação acima utiliza GitHub Actions para gerar automaticamente o SVG do histórico de contribuições.
 
 <br/>
 
 ---
 
-## 👀 Visitor Counter
+## 🤝 Vamos conversar?
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lucascarrari&label=VISITAS+AO+PERFIL&color=6366f1&style=for-the-badge" alt="Contador de visitas ao perfil GitHub" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `Code. Learn. Build. Improve.`
-
-**Construindo hoje as habilidades que vão definir o desenvolvedor de amanhã.**
+Estou aberto a oportunidades como **Desenvolvedor Front-end**,  
+**Desenvolvedor de Software** e **Desenvolvedor Full Stack Júnior**.
 
 <br/>
 
-Desenvolvido com 💻 por **Lucas Carrari**
+<a href="mailto:lucascarrari@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/lucas-carrari/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucascarrari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/lucas-carrari/)
+<a href="https://wa.me/5521966447903">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=22D3EE"/>
+</a>
+
+<br/><br/>
+
+### `Code • Learn • Build • Improve`
 
 </div>
