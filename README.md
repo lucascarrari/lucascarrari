@@ -185,22 +185,6 @@ Uma visão completa dos meus projetos, tecnologias e trajetória profissional.
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=lucascarrari&bg_color=0D1117&color=C9D1D9&line=818CF8&point=22D3EE&area=true&hide_border=true"
-  width="100%"
-  alt="Gráfico de atividade GitHub de Lucas Carrari"
-/>
-
-</div>
-
-<br/>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
